@@ -1,6 +1,8 @@
 # not-so-basic-english-quiz
 
-Welcome to **not-so-basic-english-quiz**, a playful quiz app designed to challenge your English knowledge just a bit beyond the basics. If you thought you were good at English, this quiz might make you think twice — but don’t worry, it’s all in good fun!
+Welcome to not-so-basic-english-quiz, a playful quiz app designed to challenge your English knowledge just a bit beyond the basics. If you thought you were good at English, this quiz might make you think twice — but don’t worry, it’s all in good fun!
+
+Just kidding — it’s actually a basic English quiz. The name is just for fun!
 
 ## Features
 
