@@ -1,12 +1,33 @@
-# React + Vite
+# not-so-basic-english-quiz
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to **not-so-basic-english-quiz**, a playful quiz app designed to challenge your English knowledge just a bit beyond the basics. If you thought you were good at English, this quiz might make you think twice — but don’t worry, it’s all in good fun!
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Multiple-choice questions with instant feedback  
+- Score tracking with cheeky level titles  
+- Ability to review and change answers  
+- Fun and engaging UI to keep you entertained
 
-## Expanding the ESLint configuration
+## How to Use
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Start the quiz and answer each question.  
+2. Select an answer before moving to the next question — no skipping allowed!  
+3. At the end, check your score and see what hilarious level you achieved.  
+4. Feel free to play again and improve your rank!
+
+## Levels
+
+- God of Legend  
+- Fake Pro  
+- Got Some Sauce  
+- Confused Final Boss  
+- WHAT THE FUCK?
+
+## Installation
+
+Clone the repo and run:
+
+```bash
+npm install
+npm start
