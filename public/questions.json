@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "If you are _ cold, have a hot drink to warm you up.",
+    "answers": ["feel", "felt", "feels", "feeling"],
+    "correct": "feeling"
+  },
+  {
+    "id": 2,
+    "question": "There _ empty seats left in the hall.",
+    "answers": ["were no", "is no", "were not", "are not"],
+    "correct": "were no"
+  },
+  {
+    "id": 3,
+    "question": "The trip to Paris will _ an ideal opportunity to practice my French.",
+    "answers": ["is", "be", "are", "was"],
+    "correct": "be"
+  },
+  {
+    "id": 4,
+    "question": "If you’re agreeable to our proposal, we’ll______ahead.",
+    "answers": ["going", "gone", "go", "went"],
+    "correct": "go"
+  },
+  {
+    "id": 5,
+    "question": "We must deal with __ before it gets out of hand.",
+    "answers": ["the situate", "the situation", "the situated", "the situates"],
+    "correct": "the situation"
+  },
+  {
+    "id": 6,
+    "question": "She has been employed at this job_____ 2005.",
+    "answers": ["since", "at", "for", "on"],
+    "correct": "since"
+  },
+  {
+    "id": 7,
+    "question": "The trip has been_____to include a few other events.",
+    "answers": ["extend", "extending", "extends", "extended"],
+    "correct": "extended"
+  },
+  {
+    "id": 8,
+    "question": "How long have you _ unemployed?",
+    "answers": ["be", "are", "were", "been"],
+    "correct": "been"
+  },
+  {
+    "id": 9,
+    "question": "Her father has been missing _ five years.",
+    "answers": ["since", "when", "for", "of"],
+    "correct": "for"
+  },
+  {
+    "id": 10,
+    "question": "Do you _ anyone to help out in the shop?",
+    "answers": ["needful", "need", "needs", "needed"],
+    "correct": "need"
+  },
+  {
+    "id": 11,
+    "question": "People in Italy __ living under strict lockdown conditions for three months.",
+    "answers": ["has to", "has been", "have been", "have"],
+    "correct": "have been"
+  },
+  {
+    "id": 12,
+    "question": "A lot of people __ complained about the noise.",
+    "answers": ["has to", "has been", "have been", "have"],
+    "correct": "have"
+  },
+  {
+    "id": 13,
+    "question": "I want to hear your explanation for __ late.",
+    "answers": ["being", "is", "been", "be"],
+    "correct": "being"
+  },
+  {
+    "id": 14,
+    "question": "Make sure your hands are clean before you __your dinner.",
+    "answers": ["have been", "has been", "have", "have to"],
+    "correct": "have"
+  },
+  {
+    "id": 15,
+    "question": "He __ completed his project by next Saturday.",
+    "answers": ["has to", "has been", "have been", "will have"],
+    "correct": "will have"
+  },
+  {
+    "id": 16,
+    "question": "I __ across this book in a secondhand bookstore last month.",
+    "answers": ["comes", "came", "coming", "come"],
+    "correct": "came"
+  },
+  {
+    "id": 17,
+    "question": "He’s about the same age ______you are.",
+    "answers": ["of", "for", "with", "as"],
+    "correct": "as"
+  },
+  {
+    "id": 18,
+    "question": "Before you go to visit him, you______ make sure he’s at home.",
+    "answers": ["would", "could", "should", "shall"],
+    "correct": "should"
+  },
+  {
+    "id": 19,
+    "question": "She feeds her dog the same thing __ she eats.",
+    "answers": ["whom", "that", "who", "whose"],
+    "correct": "that"
+  },
+  {
+    "id": 20,
+    "question": "When Mary reached the bus stop, the last bus_ already left.",
+    "answers": ["had to", "has", "have", "had"],
+    "correct": "had"
+  },
+  {
+    "id": 21,
+    "question": "I was just _____into the bath when the phone rang.",
+    "answers": ["getting", "got", "get", "gets"],
+    "correct": "getting"
+  },
+  {
+    "id": 22,
+    "question": "John would have __ a boxer if his mother had let him.",
+    "answers": ["became", "become", "becoming", "becomes"],
+    "correct": "become"
+  },
+  {
+    "id": 23,
+    "question": "Singapore _ all social gatherings as part of its latest restrictions to help combat Covid-19.",
+    "answers": ["have banned", "has banning", "have ban", "has banned"],
+    "correct": "has banned"
+  },
+  {
+    "id": 24,
+    "question": "She was __ for threatening to spread coronavirus.",
+    "answers": ["arrests", "arresting", "arrested", "arrest"],
+    "correct": "arrested"
+  },
+  {
+    "id": 25,
+    "question": "Schools around the world have been closed _the coronavirus pandemic.",
+    "answers": ["as long as", "because of", "although", "despite"],
+    "correct": "because of"
+  },
+  {
+    "id": 26,
+    "question": "Researchers discovered that people _ eat more ultra-processed foods have a higher risk of cancer.",
+    "answers": ["whom", "whose", "who", "which"],
+    "correct": "who"
+  },
+  {
+    "id": 27,
+    "question": "The retail industry has been decimated _ the coronavirus pandemic.",
+    "answers": ["to", "in", "at", "by"],
+    "correct": "by"
+  },
+  {
+    "id": 28,
+    "question": "John _ the problem which parents don’t know.",
+    "answers": ["have to", "has", "has been", "had"],
+    "correct": "has"
+  },
+  {
+    "id": 29,
+    "question": "He visited____lands and saw____ wonderful things.",
+    "answers": ["many , much", "many , many", "much , many", "much , much"],
+    "correct": "many , many"
+  },
+  {
+    "id": 30,
+    "question": "She was tired, ___ she continued working.",
+    "answers": ["so", "yet", "nor", "for"],
+    "correct": "yet"
+  }
+]
