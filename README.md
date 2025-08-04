@@ -14,9 +14,10 @@ Just kidding — it’s actually a basic English quiz. The name is just for fun!
 ## How to Use
 
 1. Start the quiz and answer each question.  
-2. Select an answer before moving to the next question — no skipping allowed!  
-3. At the end, check your score and see what hilarious level you achieved.  
-4. Feel free to play again and improve your rank!
+2. Select an answer before moving to the next question — no skipping allowed!
+3. To change your answer, just click the selected choice again to cancel it, then pick a new answer.
+4. At the end, check your score and see what hilarious level you achieved.  
+5. Feel free to play again and improve your rank!
 
 ## Levels
 
