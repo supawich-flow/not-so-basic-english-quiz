@@ -29,7 +29,7 @@ const QuestionScreen = ({questions,setQuestions,score,setScore,setShowScore}) =>
   },[answerState])
 
   useEffect(() => {
-    localStorage.setItem('score', score.toString)
+    localStorage.setItem('score', score.toString())
   },[score])
 
   const currentQuestionId = questions[currentIndex].id;
@@ -96,7 +96,6 @@ function nextButton() {
         <div className="answer-container" id="answerBox">
           {currentAnswers.map((ans,index) =>(
             <button key={index}
-            disabled={selectedIndex !== null && selectedIndex !== index}
             style={{ 
               backgroundColor:selectedIndex === index ? '#0084ff' : 'white',
               color:selectedIndex === index ? 'white' : 'black'
